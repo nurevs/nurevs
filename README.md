@@ -8,4 +8,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+<img src="https://komarev.com/ghpvc/?username=nurevsanozturan&style=flat-square&color=blue" alt=""/>
